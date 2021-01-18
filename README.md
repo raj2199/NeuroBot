@@ -14,19 +14,19 @@ MFCC: Mel-frequency cepstral coefficients calculation.
 MFCC.py, MFCCTest.py: Compute the MFCC feature.
 FeatureExtraction.ipynb: Speech preprocessing, including loading data, pre-emphasis, framing, window, Fourier-transform, power spectrum, filter banks, mfccs and mean normalization.
 Volume: volume calculation.
-https://github.com/raj2199/NeuroBot/blob/main/Volume/VolumeTest.png?raw=true
+!https://github.com/raj2199/NeuroBot/blob/main/Volume/VolumeTest.png?raw=true
 
 
 ZeroCR: Zero-Crossing Rate calculation.
-https://github.com/raj2199/NeuroBot/blob/main/ZeroCR/ZeroCR.png?raw=true
+!https://github.com/raj2199/NeuroBot/blob/main/ZeroCR/ZeroCR.png?raw=true
 
 Pitch: Pitch calculation and pitch tracking.
-https://github.com/raj2199/NeuroBot/blob/main/Pitch/pitch.png?raw=true
-https://github.com/raj2199/NeuroBot/blob/main/Pitch/pitchTrack.png?raw=true
+!https://github.com/raj2199/NeuroBot/blob/main/Pitch/pitch.png?raw=true
+!https://github.com/raj2199/NeuroBot/blob/main/Pitch/pitchTrack.png?raw=true
 
 Timbre: spectrogram drawing.
-https://github.com/raj2199/NeuroBot/blob/main/Timbre/spectrogram.png?raw=true
+!https://github.com/raj2199/NeuroBot/blob/main/Timbre/spectrogram.png?raw=true
 
 VAD: EPD (End-Point Detection), or Speech Detection, or VAD(Voice Activity Detection).
-https://github.com/raj2199/NeuroBot/blob/main/VAD/VAD01.png?raw=true
-https://github.com/raj2199/NeuroBot/blob/main/VAD/VAD02.png?raw=true
+!https://github.com/raj2199/NeuroBot/blob/main/VAD/VAD01.png?raw=true
+!https://github.com/raj2199/NeuroBot/blob/main/VAD/VAD02.png?raw=true
